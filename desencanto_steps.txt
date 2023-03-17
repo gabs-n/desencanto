@@ -1,0 +1,29 @@
+cd desktop
+
+git config --global user.name "gabi"
+
+git config --global user.email "nicoletigabriela2@gmail.com"
+
+git clone https://github.com/gabs-n/pokedex.git
+
+/* Apenas caso vc não tenha criado o GitIgnore no Repositório */ já
+dotnet new gitignore
+
+dotnet new sln --name Pokedex
+
+dotnet new mvc --name Pokedex -f Net6.0
+
+dotnet sln add Pokedex\Pokedex.csproj
+
+git add .
+
+git commit -m ""
+
+git push (empurrar)
+
+git pull (puxar)
+
+dotnet watch run --project Pokedex\Pokedex.csproj
+
+/* Apos acessar a pasta do projeto no terminal */
+dotnet watch run
