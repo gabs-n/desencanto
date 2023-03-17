@@ -4,9 +4,9 @@ git config --global user.name "gabi"
 
 git config --global user.email "nicoletigabriela2@gmail.com"
 
-git clone https://github.com/gabs-n/pokedex.git
+git clone https://github.com/gabs-n/desencanto.git
 
-/* Apenas caso vc não tenha criado o GitIgnore no Repositório */ já
+/* Apenas caso vc não tenha criado o GitIgnore no Repositório */ 
 dotnet new gitignore
 
 dotnet new sln --name Pokedex
@@ -25,5 +25,4 @@ git pull (puxar)
 
 dotnet watch run --project Pokedex\Pokedex.csproj
 
-/* Apos acessar a pasta do projeto no terminal */
 dotnet watch run
