@@ -10,7 +10,7 @@ namespace Desencanto.Services
         List<Personagem> GetPersonagens();
         List<Tipo> GetTipos();
         Personagem GetPersonagem(int Numero);
-        PokedexDto GetPokedexDto();
+        DesencantoDto GetDesencantoDto();
         DetailsDto GetDetailedPersonagem(int Numero);
         Tipo GetTipo(string Nome);
     }

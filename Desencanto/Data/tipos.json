@@ -1,18 +1,18 @@
 ﻿[
   {
-    "Nome": "Aço",
+    "Nome": "Elfo",
     "Cor": "#aab"
   },
   {
-    "Nome": "Água",
+    "Nome": "Humano",
     "Cor": "#39f"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Orc",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Anfíbio",
     "Cor": "#fc3"
   },
   {
@@ -20,55 +20,19 @@
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
+    "Nome": "Sereia",
     "Cor": "#66b"
   },
   {
-    "Nome": "Fogo",
+    "Nome": "Demonio",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
+    "Nome": "Deus",
     "Cor": "#6cf"
   },
   {
-    "Nome": "Inseto",
+    "Nome": "Mago",
     "Cor": "#ab6"
-  },
-  {
-    "Nome": "Lutador",
-    "Cor": "#b54"
-  },
-  {
-    "Nome": "Normal",
-    "Cor": "#aa9"
-  },
-  {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
   }
 ]

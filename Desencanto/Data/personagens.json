@@ -1,0 +1,112 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Elfo",
+    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
+    "Especie": "Elfo",
+    "Tipo": [ "Elfo"] ,
+    "Altura": 0.7,
+    "Peso": 6.9,
+    "Imagem": "\\img\\pokemons\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Tiabeanie",
+    "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
+    "Especie": "Humano",
+    "Tipo": [ "Humano"],
+    "Altura": 1,
+    "Peso": 13,
+    "Imagem": "\\img\\pokemons\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Luci",
+    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
+    "Especie": "Demonio",
+    "Tipo": [ "Demonio"],
+    "Altura": 2,
+    "Peso": 100,
+    "Imagem": "\\img\\pokemons\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Zog",
+    "Descricao": "A chama que queima na ponta da cauda é uma indicação de suas emoções. A chama tremula quando Charmander está se divertindo. Se o Pokémon se enfurecer, a chama queima ferozmente.",
+    "Especie": "Humano",
+    "Tipo": [ "Humano" ],
+    "Altura": 0.6,
+    "Peso": 8.5,
+    "Imagem": "\\img\\pokemons\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Oona",
+    "Descricao": "Charmeleon impiedosamente destrói seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele se torna agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branca azulada.",
+    "Especie": "Anfíbio",
+    "Tipo": [ "Anfíbio" ],
+    "Altura": 1.1,
+    "Peso": 19,
+    "Imagem": "\\img\\pokemons\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Dagmar",
+    "Descricao": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira um calor tão grande que derrete qualquer coisa. No entanto, nunca dá um sopro ardente a qualquer oponente mais fraco que ele.",
+    "Especie": "Humano",
+    "Tipo": [ "Humano"],
+    "Altura": 1.7,
+    "Peso": 90.5,
+    "Imagem": "\\img\\pokemons\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Fadinha Prostituta",
+    "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
+    "Especie": "Fada",
+    "Tipo": [ "Fada" ],
+    "Altura": 0.5,
+    "Peso": 9,
+    "Imagem": "\\img\\pokemons\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Bruxério",
+    "Descricao": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
+    "Especie": "Humano",
+    "Tipo": [ "Mago" ],
+    "Altura": 1,
+    "Peso": 22.5,
+    "Imagem": "\\img\\pokemons\\008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Beijoca",
+    "Descricao": "Blastoise tem bicos de água que se projetam de sua concha. Os bicos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 60 metros.",
+    "Especie": "Elfo",
+    "Tipo": [ "Elfo" ],
+    "Altura": 1.6,
+    "Peso": 85.5,
+    "Imagem": "\\img\\pokemons\\009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Deus",
+    "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
+    "Especie": "Deus",
+    "Tipo": [ "Deus" ],
+    "Altura": 0.3,
+    "Peso": 2.9,
+    "Imagem": "\\img\\pokemons\\010.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Derek",
+    "Descricao": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+    "Especie": "Anfíbio",
+    "Tipo": [ "Anfíbio" ],
+    "Altura": 0.7,
+    "Peso": 9.9,
+    "Imagem": "\\img\\pokemons\\011.png"
+  }
+]
