@@ -19,7 +19,7 @@ namespace Desencanto.Services
         {
             PopularSessao();
             var personagens = JsonSerializer.Deserialize<List<Personagem>>
-            (_session.HttpContext.Session.GetString("Pokemons"));
+            (_session.HttpContext.Session.GetString("Personagens"));
             return personagens;
         }
         public List<Tipo> GetTipos()
@@ -31,10 +31,10 @@ namespace Desencanto.Services
         }
         public Personagem GetPersonagem(int Numero)
         {
-            var personagens = GetPersonagem();
+            var personagens = GetPersonagens();
             return personagens.Where(p => p.Numero == Numero).FirstOrDefault();
         }
-        public DesencantoDto GetDesencantoDto()
+        public DesencantoDto GetDesencantoDto() 
         {
             var persons = new DesencantoDto()
             {
@@ -83,5 +83,4 @@ namespace Desencanto.Services
     }
 
 } 
-    }
-}
+
