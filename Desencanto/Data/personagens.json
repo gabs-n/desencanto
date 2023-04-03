@@ -9,7 +9,7 @@
     ],
     "Altura": 0.7,
     "Peso": 6.9,
-    "Imagem": "\\img\\pokemons\\001.png"
+    "Imagem": "\\img\\personagens\\001.png"
   },
   {
     "Numero": 2,
@@ -21,7 +21,7 @@
     ],
     "Altura": 1,
     "Peso": 13,
-    "Imagem": "\\img\\pokemons\\002.png"
+    "Imagem": "\\img\\personagens\\002.png"
   },
   {
     "Numero": 3,
@@ -33,7 +33,7 @@
     ],
     "Altura": 2,
     "Peso": 100,
-    "Imagem": "\\img\\pokemons\\003.png"
+    "Imagem": "\\img\\personagens\\003.png"
   },
   {
     "Numero": 4,
@@ -45,7 +45,7 @@
     ],
     "Altura": 0.6,
     "Peso": 8.5,
-    "Imagem": "\\img\\pokemons\\004.png"
+    "Imagem": "\\img\\personagens\\004.png"
   },
   {
     "Numero": 5,
@@ -57,7 +57,7 @@
     ],
     "Altura": 1.1,
     "Peso": 19,
-    "Imagem": "\\img\\pokemons\\005.png"
+    "Imagem": "\\img\\personagens\\005.png"
   },
   {
     "Numero": 6,
@@ -69,7 +69,7 @@
     ],
     "Altura": 1.7,
     "Peso": 90.5,
-    "Imagem": "\\img\\pokemons\\006.png"
+    "Imagem": "\\img\\personagens\\006.png"
   },
   {
     "Numero": 7,
@@ -81,7 +81,7 @@
     ],
     "Altura": 0.5,
     "Peso": 9,
-    "Imagem": "\\img\\pokemons\\007.png"
+    "Imagem": "\\img\\personagens\\007.png"
   },
   {
     "Numero": 8,
@@ -93,7 +93,7 @@
     ],
     "Altura": 1,
     "Peso": 22.5,
-    "Imagem": "\\img\\pokemons\\008.png"
+    "Imagem": "\\img\\personagens\\008.png"
   },
   {
     "Numero": 9,
@@ -105,7 +105,7 @@
     ],
     "Altura": 1.6,
     "Peso": 85.5,
-    "Imagem": "\\img\\pokemons\\009.png"
+    "Imagem": "\\img\\personagens\\009.png"
   },
   {
     "Numero": 10,
@@ -117,7 +117,7 @@
     ],
     "Altura": 0.3,
     "Peso": 2.9,
-    "Imagem": "\\img\\pokemons\\010.png"
+    "Imagem": "\\img\\personagens\\010.png"
   },
   {
     "Numero": 11,
@@ -129,7 +129,7 @@
     ],
     "Altura": 0.7,
     "Peso": 9.9,
-    "Imagem": "\\img\\pokemons\\011.png"
+    "Imagem": "\\img\\personagens\\011.png"
   },
     {
     "Numero": 12,
@@ -141,6 +141,6 @@
     ],
     "Altura": 1.56,
     "Peso": 55.0,
-    "Imagem": "\\img\\pokemons\\011.png"
+    "Imagem": "\\img\\personagens\\012.png"
   }
 ]
