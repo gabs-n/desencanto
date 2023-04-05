@@ -1,7 +1,7 @@
 ﻿[
   {
     "Nome": "Elfo",
-    "Cor": "#aab"
+    "Cor": "#ab6"
   },
   {
     "Nome": "Humano",
@@ -33,6 +33,6 @@
   },
   {
     "Nome": "Mago",
-    "Cor": "#ab6"
+    "Cor": "#aab"
   }
 ]
