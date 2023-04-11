@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Seagram tfb';
+    src: url(../font/Seagram\ tfb.ttf);
+
+    font-family: 'Enchanted Land';
+    src: url(../font/Enchanted\ Land.otf);
+}
+
 .card img {
     background-color: lightgray;
 }
@@ -12,3 +20,34 @@
 .cursor-pointer {
     cursor: pointer;
 }
+
+.navbar navbar-dark bg-success shadow-sm, container, img{
+    width: 150px;
+}
+
+.col mx-auto, h1{
+    background: -webkit-linear-gradient(#eee, #fffb00, #bdba17 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:'Enchanted Land';
+    font-size: 80px;
+}
+
+.navbar navbar-dark bg-success shadow-sm, container{
+    background: -webkit-linear-gradient(#eee, #fffb00, #000000 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:'Enchanted Land';
+    font-size: 30px;
+}
+
+.navbar navbar-dark bg-success shadow-sm, bold{
+    background: -webkit-linear-gradient(#eee, #fffb00, #000000 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:'Enchanted Land';
+    font-size: 30px;
+}
+
+
+

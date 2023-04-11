@@ -2,73 +2,73 @@
   {
     "Numero": 1,
     "Nome": "Elfo",
-    "Descricao": "",
+    "Descricao": "Elfo começa insatisfeito com a vida em Elfwood . Para ele, algo não parece muito certo. Ele está farto de ser feliz o tempo todo - sofrendo o equivalente élfico da depressão. Fazer doces o dia todo para ser pago em doces simplesmente não faz mais sentido para ele . Como tal, ele conhece seu próprio gênero e superou seus tropos élficos. Ele ansiava por liberdade e aventura. Para tanto, ele deseja ver o mundo exterior, por mais inescrupuloso e miserável que seja.",
     "Especie": "Elfo",
     "Tipo": [
       "Elfo"
     ],
-    "Altura": 0.7,
-    "Peso": 6.9,
+    "Altura": 0.95,
+    "Peso": 17,
     "Imagem": "\\img\\personagens\\Elfo.webp"
   },
   {
     "Numero": 2,
     "Nome": "Tiabeanie",
-    "Descricao": "",
+    "Descricao": "Bean é a única filha do Rei Zøg de Dreamland e da então Princesa Dagmar de Maru . Dagmar concebeu uma filha para fazê-la cumprir uma profecia e pagar uma dívida que Maru tem com o Inferno . Dagmar chamou Bean de 'Tiabeanie Mariabeanie' em homenagem à falecida avó de Dagmar .",
     "Especie": "Humano",
     "Tipo": [
       "Humano"
     ],
-    "Altura": 1,
-    "Peso": 13,
+    "Altura": 1.56,
+    "Peso": 57,
     "Imagem": "\\img\\personagens\\BBean.webp"
   },
   {
     "Numero": 3,
     "Nome": "Luci",
-    "Descricao": "",
+    "Descricao": "Luci era um diabinho de Maru que foi convocado magicamente pela Feiticeira e pelo Imperador Cloyd de Maru para atuar como seu emissário . Ele foi apresentado a Bean na forma de um presente de casamento.Depois de ser decapitado por um elevador, Luci se encontra no céu. Luci é enviado à terra quando Deus envia Jerry para baixo, e ele se esconde no pára-quedas de Jerry. Ele, Bean e Elfo reúnem sua cabeça, alma e corpo.",
     "Especie": "Demonio",
     "Tipo": [
       "Demonio"
     ],
-    "Altura": 2,
-    "Peso": 100,
+    "Altura": 0.42,
+    "Peso": 7,
     "Imagem": "\\img\\personagens\\Luci.webp"
   },
   {
     "Numero": 4,
     "Nome": "Zog",
-    "Descricao": "",
+    "Descricao": "O príncipe Zøg foi o segundo filho do rei Xøg . Quando ele era mais jovem, ele seria um cantor castrati, mas isso mudou após um incidente. Ele se sentiu sozinho durante sua infância (assim como seu próprio filho Derek) por causa da intenção de seu pai com seu filho mais velho, Yøg, que era o herdeiro do trono. Mais tarde, ele se tornou um cavaleiro e ficou conhecido como O Príncipe Guerreiro. Depois de seu irmão mais velho, Yøg, morreu supostamente envenenado pela sociedade secreta de Odval (embora ele mais tarde revele que foi uma conspiração para jogar Zøg à beira da insanidade, então permanece um mistério), Zøg se tornou rei.",
     "Especie": "Humano",
     "Tipo": [
       "Humano"
     ],
-    "Altura": 0.6,
-    "Peso": 8.5,
+    "Altura": 1.61,
+    "Peso": 74,
     "Imagem": "\\img\\personagens\\Zog.webp"
   },
   {
     "Numero": 5,
     "Nome": "Oona",
-    "Descricao": "",
+    "Descricao": "Oona nasceu na família real de Dankmire e casou-se com o Rei Zog de Dreamland em um casamento arranjado para acabar com a guerra entre os dois reinos algum tempo depois que a primeira esposa do Rei Zog, a Rainha Dagmar, foi transformada em pedra .",
     "Especie": "Anfíbio",
     "Tipo": [
       "Anfíbio"
     ],
-    "Altura": 1.1,
-    "Peso": 19,
+    "Altura": 1.72,
+    "Peso": 65,
     "Imagem": "\\img\\personagens\\Oona.webp"
   },
   {
     "Numero": 6,
     "Nome": "Dagmar",
-    "Descricao": "",
+    "Descricao": "Dagmar nasceu na família real de Maru como a primogênita e a filha mais velha. Ela tem uma irmã mais nova, Becky , e dois irmãos mais novos, Cloyd e Jerry . Aos dezenove anos, ela assassinou seus pais por razões desconhecidas. Na verdade, ela mentiu para Bean que eles morreram em um duplo assassinato e suicídio. Maru tinha uma profecia desconhecida envolvendo uma criança ainda não nascida, que seria trazida a este mundo por duas famílias reais (um lado da família real Maru e o outro lado da família real Dreamland), e mais tarde cresceria para ser sacrificado . em um ritual para pagar as dívidas com o Infernoque Maru devia, devido à negociação anterior com o submundo . A profecia envolvia uma coroa aparafusada na cabeça de alguém. A certa altura, Dagmar, Cloyd e Becky tentaram enroscar a coroa na cabeça de Jerry, mas não funcionou e deixou Jerry com danos cerebrais permanentes, então Dagmar foi enviada em uma missão à Dreamland para se casar com a outra família real e dar à luz uma princesa para que a profecia se cumprisse.",
     "Especie": "Humano",
     "Tipo": [
       "Humano"
     ],
-    "Altura": 1.7,
-    "Peso": 90.5,
+    "Altura": 1.70,
+    "Peso": 58,
     "Imagem": "\\img\\personagens\\Dagmar.webp"
   },
   {
@@ -79,8 +79,8 @@
     "Tipo": [
       "Fada"
     ],
-    "Altura": 0.5,
-    "Peso": 9,
+    "Altura": 0.27,
+    "Peso": 2.5,
     "Imagem": "\\img\\personagens\\Hooker_fairy.webp"
   },
   {
@@ -91,8 +91,8 @@
     "Tipo": [
       "Mago"
     ],
-    "Altura": 1,
-    "Peso": 22.5,
+    "Altura": 1.60,
+    "Peso": 59,
     "Imagem": "\\img\\personagens\\Sercerio.webp"
   },
   {
@@ -103,8 +103,8 @@
     "Tipo": [
       "Elfo"
     ],
-    "Altura": 1.6,
-    "Peso": 85.5,
+    "Altura": 0.95,
+    "Peso": 17,
     "Imagem": "\\img\\personagens\\Kissy.webp"
   },
   {
@@ -115,20 +115,20 @@
     "Tipo": [
       "Deus"
     ],
-    "Altura": 0.3,
-    "Peso": 2.9,
+    "Altura": 99.99,
+    "Peso": 99.99,
     "Imagem": "\\img\\personagens\\God.webp"
   },
   {
     "Numero": 11,
     "Nome": "Derek",
-    "Descricao": "",
+    "Descricao": "Derek nasceu para o rei Zøg e sua segunda esposa, a rainha Oona, um ano após a suposta morte da rainha Dagmar e foi entregue por Bunty . Ele nasceu como um ovo que Oona deixou cair no chão para fazê-lo chocar, o ovo pousou aos pés de Bean e um bebê totalmente formado saiu. Assim que saiu do ovo, ele disse sua primeira palavra 'Derek', nomeando-se assim.",
     "Especie": "Anfíbio",
     "Tipo": [
       "Anfíbio"
     ],
-    "Altura": 0.7,
-    "Peso": 9.9,
+    "Altura": 1.33,
+    "Peso": 42,
     "Imagem": "\\img\\personagens\\PDerek.webp"
   },
     {
