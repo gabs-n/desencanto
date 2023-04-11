@@ -26,7 +26,7 @@
 }
 
 .col mx-auto, h1{
-    background: -webkit-linear-gradient(#eee, #fffb00, #bdba17 );
+    background: -webkit-linear-gradient(#eee, rgb(9, 88, 1), #000000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family:'Enchanted Land';
@@ -34,7 +34,7 @@
 }
 
 .navbar navbar-dark bg-success shadow-sm, container{
-    background: -webkit-linear-gradient(#eee, #fffb00, #000000 );
+    background: -webkit-linear-gradient(#eee, #F2B807, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family:'Enchanted Land';
@@ -42,12 +42,31 @@
 }
 
 .navbar navbar-dark bg-success shadow-sm, bold{
-    background: -webkit-linear-gradient(#eee, #fffb00, #000000 );
+    background: -webkit-linear-gradient(#eee, #F2B807, #000000 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family:'Enchanted Land';
     font-size: 30px;
 }
 
+footer {
+    background-color: #198754;
+    position: relative;
+    bottom:0;
+    height: 100px;
+    width: 100%;
+    margin-top: 20px;
+}
 
+footer p {
+    color: #000000;
+}
 
+path {
+    color: #000000;
+}
+
+.img-fluid {
+    height: 500px;
+    width: 300px;
+}
